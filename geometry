@@ -1,0 +1,11 @@
+root = Tk()
+root.geometry('350x200')
+root.title("Activity #1")
+lbl = Label(root, text = "First Name")
+lbl.pack()
+
+
+
+root.mainloop()
+
+
